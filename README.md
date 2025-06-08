@@ -24,13 +24,13 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/PawanTiwari23/React_E-Commerce
+  git clone https://github.com/PawanTiwari23/React_E-Commerce-Trendora
 ```
 
 Go to the project directory
 
 ```bash
-  cd React_E-Commerce
+  cd React_E-Commerce-Trendora
 ```
 
 Install dependencies
