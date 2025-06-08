@@ -1,9 +1,10 @@
 # E-Commerce Website
 📌 Project Description:
 
-Trendora is a modern, responsive e-commerce website that offers users a smooth and engaging online shopping experience. It includes essential features like user authentication, product browsing, shopping cart management, and a real-time order summary — all wrapped in a clean and attractive UI.
+<b>Trendora is a modern, responsive e-commerce website that offers users a smooth and engaging online shopping experience. It includes essential features like user authentication, product browsing, shopping cart management, and a real-time order summary — all wrapped in a clean and attractive UI.</b>
 
 🔑 Key Features:
+
 🧾 Authentication System:
 
 Secure Login/Register pages.
