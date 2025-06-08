@@ -14,6 +14,8 @@ https://pawantiwari23.github.io/E-Commerce-Trendora/
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![image](https://github.com/user-attachments/assets/e53c62f5-47ba-48f5-82c2-106fa736b17f)
+
 
 
 
